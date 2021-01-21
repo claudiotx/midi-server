@@ -79,7 +79,7 @@
     "s3-streamlogger": "^1.4.0",
     "simple-get": "^3.0.3",
     "smart-buffer": "^4.0.1",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "toobusy-js": "^0.5.1",
     "ts-node": "^5.0.1",
     "uuid": "^3.2.1",
