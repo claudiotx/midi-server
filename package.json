@@ -77,7 +77,7 @@
     "passport-facebook": "^3.0.0",
     "passport-local": "^1.0.0",
     "s3-streamlogger": "^1.4.0",
-    "simple-get": "^3.0.3",
+    "simple-get": "^4.0.1",
     "smart-buffer": "^4.0.1",
     "socket.io": "^2.0.4",
     "toobusy-js": "^0.5.1",
